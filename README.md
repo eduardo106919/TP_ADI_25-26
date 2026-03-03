@@ -1,36 +1,20 @@
+# TP ADI 2025/2026
 
-# Titulo do Trabalho
-
-> Substituir pelo nome oficial do projeto ou trabalho académico.
-
+Trabalho Prático de **Aprendizagem e Decisão Inteligentes** 2025/2026.
 
 ## Descrição
 
-Este repositório serve como base estrutural para a realização de trabalhos académicos. Inclui organização de pastas recomendada, convenções de documentação e uma estrutura mínima para facilitar:
-
-- Desenvolvimento organizado
-- Colaboração em grupo
-- Entrega final estruturada
-
-O objetivo é padronizar a organização do projeto e reduzir tempo gasto em configuração inicial.
-
+**TODO**: escrever descrição do trabalho prático.
 
 ## Objetivos
 
-Descrever de forma clara:
-- O problema a resolver
-- O contexto da unidade curricular
-- As competências a desenvolver
-- O resultado esperado (relatório, aplicação, protótipo, estudo, etc.)
+Com a realização deste Trabalho de Grupo pretende-se sensibilizar e motivar os estudantes para a conceção e desenvolvimento de um projeto prático, no âmbito da unidade curricular de Aprendizagem e Decisão Inteligentes, utilizando diferentes paradigmas de aprendizagem e recorrendo a técnicas de **machine learning** abordados no decurso da unidade curricular.
 
-Exemplo:
-> O objetivo deste trabalho é desenvolver uma aplicação que implemente os conceitos abordados na unidade curricular, aplicando princípios de engenharia de software, modelação e análise.
-
-## Estrutura do Projeto
+<!-- ## Estrutura do Projeto
 
 Aqui explica-se as várias componentes do trabalho, o contexto de cada pasta, ...
 
-Exemplo: 
+Exemplo:
 ```
 .
 ├── about/           # Enunciados do trabalho prático
@@ -42,9 +26,9 @@ Exemplo:
 ├── tests/           # Testes (se aplicável)
 ├── README.md
 └── .gitignore
-```
+``` -->
 
-## Instruções de Utilização
+<!-- ## Instruções de Utilização
 
 ### Dependências
 
@@ -74,18 +58,20 @@ make
 
 ```
 ./executavel
-```
+``` -->
 
-## Resultados
+<!-- ## Resultados
 
 Aqui apresenta-se uma reflexão critica do projeto desenvolvido e a nota atribuida.
-
+ -->
 
 ## Grupo de Trabalho
 
-| Nome          | Número  |
-| ------------- | ------- |
-| Nome de aluno | aXXXXXX |
-| Nome de aluno | aXXXXXX |
-| Nome de aluno | aXXXXXX |
-| Nome de aluno | aXXXXXX |
+Constituintes do grupo de trabalho:
+
+| Nome                             | Número  |
+| -------------------------------- | ------- |
+| Eduardo Freitas Fernandes        | a106919 |
+| Guilherme Santos da Costa        | a107326 |
+| José Mário Raimundo Lima         | a106888 |
+| Pedro Nuno de Bastos Pinho Costa | a107375 |
