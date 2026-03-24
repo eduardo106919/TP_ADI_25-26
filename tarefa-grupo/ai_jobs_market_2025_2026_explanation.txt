@@ -1,0 +1,25 @@
+job_id                              -> Row identification (unique job posting identifier)
+job_title                           -> Title of the job position
+job_category                        -> Category/area of the job (e.g. AI Engineering, Data Science)
+experience_level                    -> Required experience level (e.g. Entry, Mid, Senior)
+years_of_experience                 -> Number of years of experience required
+education_required                  -> Minimum education level required (e.g. Bachelor's, Master's)
+annual_salary_usd                   -> Annual salary in US Dollars
+salary_min_usd                      -> Minimum salary range in US Dollars
+salary_max_usd                      -> Maximum salary range in US Dollars
+city                                -> City where the job is located
+country                             -> Country where the job is located
+remote_work                         -> Remote work policy (On-site, Hybrid, Fully Remote)
+company_size                        -> Size of the company (Startup, SME, Large Enterprise)
+industry                            -> Industry sector of the company (e.g. Finance, Healthcare)
+required_skills                     -> List of required technical skills (pipe-separated)
+ai_salary_premium_pct               -> Salary premium percentage compared to equivalent non-AI roles
+demand_score                        -> Score indicating market demand for the role (0-100)
+demand_growth_yoy_pct               -> Year-over-year percentage growth in demand for the role
+benefits_score_10                   -> Quality score of employee benefits package (0-10)
+posting_year                        -> Year the job was posted
+posting_month                       -> Month the job was posted (1-12)
+is_senior                           -> Binary flag indicating if the role is senior level (1=Yes, 0=No)
+is_remote_friendly                  -> Binary flag indicating if the role supports remote work (1=Yes, 0=No)
+is_llm_role                         -> Binary flag indicating if the role is focused on LLMs (1=Yes, 0=No)
+salary_tier                         -> Salary range classification (Target)
