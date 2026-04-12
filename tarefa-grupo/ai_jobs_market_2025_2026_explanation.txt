@@ -22,4 +22,4 @@ posting_month                       -> Month the job was posted (1-12)
 is_senior                           -> Binary flag indicating if the role is senior level (1=Yes, 0=No)
 is_remote_friendly                  -> Binary flag indicating if the role supports remote work (1=Yes, 0=No)
 is_llm_role                         -> Binary flag indicating if the role is focused on LLMs (1=Yes, 0=No)
-salary_tier                         -> Salary range classification (Target)
+salary_tier                         -> Salary range classification
