@@ -2,6 +2,9 @@
 
 Trabalho Prático de **Aprendizagem e Decisão Inteligentes** 2025/2026.
 
+> [!NOTE]
+> Nota final: **15/20**.
+
 ## 📘 Descrição Geral
 
 Este projeto foca-se na conceção e desenvolvimento de modelos de aprendizagem e decisão, utilizando a plataforma **KNIME**. O trabalho envolve a análise de dados e extração de conhecimento, dividindo-se em duas tarefas desenvolvidas em simultâneo:
